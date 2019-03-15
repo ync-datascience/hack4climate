@@ -1,20 +1,8 @@
-# hack4climate Submission Example.
+# hack4climate at Yale-NUS College
+16th March, 2019
 
-This is a sample submission repository for the hackathon. You can fork this repo and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo should look like when you submit it **before 6pm on 16th March**. Upload your code in a folder called `codebase`. Upload your presentation and any images to the folder `presentation`.
+hack4climate is an intensive 2-day program culminating in a blockchain hackathon and datathon held at Yale-NUS College in Singapore. Jointly organised by the Yale-NUS Data Science Society and the Yale-NUS Blockchain society, with collaborators such as YaleOpenLab, Data-Driven Yale and more, hack4climate is the first social impact blockchain hackathon in Singapore.
 
-If you are not comfortable using git or with forking this repository, ask a mentor for help! Alternatively, email yncdata@gmail.com with all your code, your presentation, and a brief writeup of your project.
+Open to all students currently enrolled in an educational institution in Singapore, hack4climate is committed to identifying thought leaders of tomorrow who are both socially conscious and technically capable.
 
-Good luck!
----
-# Team Name
-## Introduction
-Give us a brief description of your project and what motivated your team to work on it. Why is it a problem worth solving/a question worth investigating?
-
-## Screenshots
-If you are demoing a prototype or showing us a visualisation, insert some screenshots.
-
-## Acknowledgements
-Here, we encourage you to acknowledge the ideas you were inspired by, as well as the people who helped your team.
-
-## Team Members
-If you would like to, introduce yourselves.
+To that end, generous prizes worth up to $2,500 will be provided to winning teams that have demonstrated their ability to a distinguished panel of judges comprising current industry leaders. Besides providing an opportunity to test your coding prowess, Hack4Climate is a personal development opportunity not to be missed. With multiple workshops on Ethereum and software engineering as well as fireside chats for participants to mingle with industry leaders, there is something for everyone.
