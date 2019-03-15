@@ -1,6 +1,6 @@
 # hack4climate Submission Example.
 
-This is a sample submission repository for the hackathon. You can fork this repo and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo should look like when you submit it **before 6pm on 16th March**. Upload your code in a folder called `codebase`. Upload your presentation and any images to the folder `presentation`.
+This is a sample submission repository for the hackathon. You can fork this repo and use this as a starting point. You do not have to send a pull request for this repo. This is just a sample of what your repo should look like when you submit it **before 6pm on 16th March**. Upload your code in a folder called `codebase`. Upload your presentation and any images to the folder `presentation`.
 
 If you are not comfortable using git or with forking this repository, ask a mentor for help! Alternatively, email yncdata@gmail.com with all your code, your presentation, and a brief writeup of your project.
 
